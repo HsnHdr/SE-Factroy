@@ -1,0 +1,4 @@
+emp001, cdaoud, 20220802, male, 12000
+emp002, manuella, 20220803, female, 1200
+emp003, hussein, 20220810, male, 3000
+emp004, mohsen, 20220821, male, 100
